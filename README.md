@@ -16,4 +16,4 @@ I'm currently working on **Aloha**, a fast, efficient, and secure Discord API li
 - **Software**: Unity, JDK, Unreal Engine, Roblox, Microsoft Office, Blender, Visual Studio, Git
 - **Discipline**: UI/UX Design, Technical Documentation, Game Design, Object-Oriented Programming, Project Management, Sound Design, Team Leadership
 
-![Galaxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegalaxydev&show_icons=true&theme=dracula)
+![Galaxy's GitHub stats](https://github-readme-stats-beta-jet-62.vercel.app/api?username=thegalaxydev&show_icons=true&theme=dracula)
