@@ -1,10 +1,10 @@
 ## Galaxy 🌌
 
 ### About Me 🧑‍🚀
-I'm a 21 year old fullstack programmer with experience in game development and developer operations.
+I'm a 23 year old fullstack programmer with experience in game development and developer operations.
 
 ### Currently Working On 🚀
-I'm currently working on **Aloha**, a fast, efficient, and secure Discord API library written in [Luau](https://luau.org/).
+I'm currently working on **Galaxy Commander**, a quick and easy to use Magic The Gathering deck builder!
 
 ### Skills 📈
 - **Languages**: <a href="https://lua.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="25" height="25" style="vertical-align: text-bottom;"></a>
